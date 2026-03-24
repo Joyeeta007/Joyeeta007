@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Joyeeta Sarker 👋</h1>
+<h1 align="center">Hi, I'm Joyeeta Sarker</h1>
 
 <p align="center">
   <b>BSc student · Bioinformatics Engineering · Bangladesh Agricultural University</b><br/>
