@@ -84,8 +84,8 @@ If you're a researcher, student, or small team who needs help with biological da
 ## Connect
 
 <p>
-  <a href="https://www.upwork.com">Upwork</a> ·
-  <a href="mailto:">Email</a>
+  <a href="https://www.linkedin.com/in/joyeeta--sarkar">LinkedIn</a> ·
+  <a href="https://www.jjoyeetasp@gmail.com">Email</a>
 </p>
 
 ---
